@@ -30,3 +30,8 @@ Examples_old/Stereo/stereo_kitti_old
 Examples_old/Stereo/stereo_tum_vi_old
 Thirdparty/g2o/lib/libg2o.so
 lib/libORB_SLAM3.so
+
+
+Thirdparty/DBoW2/build/**
+Thirdparty/g2o/build/**
+Thirdparty/Sophus/build/**
